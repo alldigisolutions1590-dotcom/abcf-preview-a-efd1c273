@@ -935,7 +935,7 @@
     }
     if (opts && opts.announce) {
       announce(pickup
-        ? 'Pick-up chosen. Collection from 611 E Carson St Ste B.'
+        ? 'Pick-up chosen. Collection from 4100 Atlantic Avenue.'
         : 'Delivery chosen. A street address is needed.');
     }
   }
@@ -1071,7 +1071,7 @@
      again on the confirmation, so the two can never disagree. */
   function fulfilmentBlock(dl, mode) {
     var pickup = mode === 'pickup';
-    var shop = (AFH.BUSINESS && AFH.BUSINESS.address) || '611 E Carson St Ste B, Long Beach, CA 90807';
+    var shop = (AFH.BUSINESS && AFH.BUSINESS.address) || '4100 Atlantic Avenue, Long Beach, CA 90807';
     var where = pickup
       ? 'Pick up at the shop<br>' + shop + '<br>Mon–Fri 9–5 · Sat 9–3 · Sun closed'
       : (dl['co-name'] || '') + '<br>' + (dl['co-address'] || '') + ', ' + (dl['co-city'] || '') + ' ' + (dl['co-zip'] || '');
@@ -1227,7 +1227,7 @@
     var mode = fulfilment();
     var ref = 'ABCF-' + String(Math.floor(1000 + Math.random() * 9000));
     var dl = coState.data;
-    var shop = (AFH.BUSINESS && AFH.BUSINESS.address) || '611 E Carson St Ste B, Long Beach, CA 90807';
+    var shop = (AFH.BUSINESS && AFH.BUSINESS.address) || '4100 Atlantic Avenue, Long Beach, CA 90807';
     var gift = (giftEl ? giftEl.value : store.gift || '').trim();
 
     /* Freeze the order before the cart is emptied — the confirmation has to
