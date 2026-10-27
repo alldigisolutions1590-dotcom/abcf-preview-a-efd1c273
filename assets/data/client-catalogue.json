@@ -1,0 +1,495 @@
+{
+ "meta": {
+  "client": "A Beautiful California Florist",
+  "location": "Long Beach, CA",
+  "verifiedOn": "2026-10-27",
+  "source": "abeautifulcalflorist.com product pages (schema.org JSON-LD)",
+  "notes": "names, prices, descriptions are the client's published values. Size deltas (+25/+50) are SAMPLE values, flagged in UI. images are licensed stock placeholders.",
+  "photoStatus": "temporary licensed stock — client originals pending"
+ },
+ "business": {
+  "name": "A Beautiful California Florist",
+  "shortName": "ABC Florist",
+  "address": "611 E Carson St Ste B, Long Beach, CA 90807",
+  "addressNote": "Announced relocation. 455 Atlantic Ave, 90802 still appears on some older category pages — stale.",
+  "phone": "(562) 437-4106",
+  "phoneRaw": "5624374106",
+  "email": "abcflorist1@gmail.com",
+  "hours": {
+   "monFri": "9:00 AM – 5:00 PM",
+   "sat": "9:00 AM – 3:00 PM",
+   "sun": "Closed",
+   "note": "Site is inconsistent: promo banner says 8–5 / 8–4. Footer + About + FAQ say 9–5 / 9–3. Using the latter; owner to confirm."
+  },
+  "social": {
+   "instagram": "https://www.instagram.com/abc_florist/",
+   "facebook": "https://www.facebook.com/abeautifulcaliforniaflorist/"
+  },
+  "differentiators": [
+   "Same-day delivery across Long Beach",
+   "Photo of your arrangement sent before delivery",
+   "Hand-delivered by our own drivers",
+   "Family-owned, woman-owned, 80+ years in Long Beach",
+   "Custom arrangements to your palette"
+  ],
+  "addOns": [
+   {
+    "name": "Before 12 Noon delivery",
+    "price": 9.99
+   },
+   {
+    "name": "RUSH express (2 hours or less)",
+    "price": 14.99
+   },
+   {
+    "name": "Ferrero Rocher chocolate box",
+    "price": 19.99
+   },
+   {
+    "name": "Full-size greeting card",
+    "price": 4.99
+   }
+  ],
+  "testimonials": [
+   {
+    "quote": "Their flower arrangement was Beautiful! And delivered on time.",
+    "rating": 5,
+    "source": "abeautifulcalflorist.com"
+   },
+   {
+    "quote": "The arrangement was as pictured and arrived quickly! They even sent a picture before it was delivered.",
+    "rating": 5,
+    "source": "/belmont.html"
+   },
+   {
+    "quote": "Very easy ordering process and the final product was beautiful! Thanks for the quick delivery and for sending photos of the actual bouquet and note.",
+    "rating": 5,
+    "source": "/belmont.html"
+   }
+  ]
+ },
+ "occasions": [
+  "Anniversary",
+  "Autumn",
+  "Birthday",
+  "Congrats",
+  "Get Well",
+  "Gift Sets",
+  "Graduation",
+  "Halloween",
+  "I'm Sorry",
+  "Just Because",
+  "Love and Romance",
+  "New Baby",
+  "Prom",
+  "Sympathy and Funeral",
+  "Thank You",
+  "Thanksgiving",
+  "Wedding",
+  "Quinceañera"
+ ],
+ "products": [
+  {
+   "name": "Autumn Blaze",
+   "price": 64.99,
+   "currency": "USD",
+   "description": "Ignite the spirit of the season with our \"Autumn Blaze\" Mixed Fall Flower Arrangement from A Beautiful California Florist in Long Beach!",
+   "sizes": [
+    "Standard",
+    "Deluxe",
+    "Premium"
+   ],
+   "sampleSizeDeltas": [
+    0,
+    25,
+    50
+   ],
+   "occasions": [
+    "autumn",
+    "thanksgiving"
+   ],
+   "tags": [
+    "best seller"
+   ],
+   "sourceUrl": "",
+   "slug": "autumn-blaze"
+  },
+  {
+   "name": "Belmont",
+   "price": 74.99,
+   "currency": "USD",
+   "description": "Sure to brighten anyone's day and bring smiles, joy and laughter. This arrangement is a collection of bright roses, pastel flowering stalk and premium accent blooms, lush greens in a clear vase.",
+   "sizes": [
+    "Standard",
+    "Deluxe",
+    "Premium"
+   ],
+   "sampleSizeDeltas": [
+    0,
+    25,
+    50
+   ],
+   "occasions": [
+    "birthday",
+    "just because"
+   ],
+   "tags": [
+    "best seller"
+   ],
+   "sourceUrl": "",
+   "slug": "belmont"
+  },
+  {
+   "name": "Artisan Wrapped Bouquet",
+   "price": 76.99,
+   "currency": "USD",
+   "description": "Beautifully wrapped assortment of colorful blooms chosen by our house Artisan/Florist will be made with todays fresh flowers delivered to us direct from the huge LA Flower Market.",
+   "sizes": [
+    "Standard",
+    "Deluxe",
+    "Premium"
+   ],
+   "sampleSizeDeltas": [
+    0,
+    25,
+    50
+   ],
+   "occasions": [
+    "just because",
+    "thank you"
+   ],
+   "tags": [
+    "best seller"
+   ],
+   "sourceUrl": "",
+   "slug": "artisan-wrapped-bouquet"
+  },
+  {
+   "name": "The Emma",
+   "price": 79.99,
+   "currency": "USD",
+   "description": "The Emma, a beautiful arrangement of pink roses, cymbidium orchid, hydrangea, verdant cremon, lisianthus and accented by lush wintergreens (which impart strength, vibrant health and luck in the New Year).",
+   "sizes": [
+    "Standard",
+    "Deluxe",
+    "Premium"
+   ],
+   "sampleSizeDeltas": [
+    0,
+    25,
+    50
+   ],
+   "occasions": [
+    "anniversary",
+    "love and romance"
+   ],
+   "tags": [],
+   "sourceUrl": "",
+   "slug": "the-emma"
+  },
+  {
+   "name": "Autumn Pumpkin",
+   "price": 89.99,
+   "currency": "USD",
+   "description": "Bring the beauty of fall indoors with this stunning autumn floral arrangement, perfect for the fall season and Thanksgiving centerpieces. A variety of fresh fall flowers are artfully arranged in a charming 7-inch ceramic pumpkin container.",
+   "sizes": [
+    "Standard",
+    "Deluxe",
+    "Premium"
+   ],
+   "sampleSizeDeltas": [
+    0,
+    25,
+    50
+   ],
+   "occasions": [
+    "autumn",
+    "thanksgiving"
+   ],
+   "tags": [
+    "best seller"
+   ],
+   "sourceUrl": "",
+   "slug": "autumn-pumpkin"
+  },
+  {
+   "name": "Lovely You",
+   "price": 97.0,
+   "currency": "USD",
+   "description": "Large size lush mix of pink lilies, red roses, and tall snapdragons in a pink textured glass vase, fuller height and volume with more flowers added.",
+   "sizes": [
+    "Standard",
+    "Deluxe",
+    "Premium"
+   ],
+   "sampleSizeDeltas": [
+    0,
+    25,
+    50
+   ],
+   "occasions": [
+    "love and romance",
+    "anniversary"
+   ],
+   "tags": [
+    "best seller"
+   ],
+   "sourceUrl": "",
+   "slug": "lovely-you"
+  },
+  {
+   "name": "Autumn Shades",
+   "price": 99.99,
+   "currency": "USD",
+   "description": "The change of seasons is upon us. Autumn Shades in fall colors and textures burst forth in this beautiful Fall arrangement.",
+   "sizes": [
+    "Standard",
+    "Deluxe",
+    "Premium"
+   ],
+   "sampleSizeDeltas": [
+    0,
+    25,
+    50
+   ],
+   "occasions": [
+    "autumn"
+   ],
+   "tags": [],
+   "sourceUrl": "",
+   "slug": "autumn-shades"
+  },
+  {
+   "name": "Box of Autumn",
+   "price": 99.99,
+   "currency": "USD",
+   "description": "Wouldn’t life be more convenient if seasons came in boxes? We already have boxed wine, boxed lunches, and boxing matches. Seasons need to catch up. Now they have. Introducing the Box of Autumn.",
+   "sizes": [
+    "Standard",
+    "Deluxe",
+    "Premium"
+   ],
+   "sampleSizeDeltas": [
+    0,
+    25,
+    50
+   ],
+   "occasions": [
+    "autumn",
+    "thank you"
+   ],
+   "tags": [],
+   "sourceUrl": "",
+   "slug": "box-of-autumn"
+  },
+  {
+   "name": "Autumn Serenade",
+   "price": 109.99,
+   "currency": "USD",
+   "description": "Bring the sweet music of fall into your home with our stunning Autumn Serenade arrangement. This exquisite floral bouquet is a true masterpiece, filled with the rich, vibrant colors of autumn.",
+   "sizes": [
+    "Standard",
+    "Deluxe",
+    "Premium"
+   ],
+   "sampleSizeDeltas": [
+    0,
+    25,
+    50
+   ],
+   "occasions": [
+    "autumn",
+    "thanksgiving"
+   ],
+   "tags": [],
+   "sourceUrl": "",
+   "slug": "autumn-serenade"
+  },
+  {
+   "name": "Lavender Bag of Flowers",
+   "price": 119.0,
+   "currency": "USD",
+   "description": "Soft lavender and white blooms spill from a lavender gift bag to create a romantic birthday bouquet or thoughtful just-because arrangement that feels both fresh and celebratory.",
+   "sizes": [
+    "Standard",
+    "Deluxe",
+    "Premium"
+   ],
+   "sampleSizeDeltas": [
+    0,
+    25,
+    50
+   ],
+   "occasions": [
+    "get well",
+    "thank you"
+   ],
+   "tags": [],
+   "sourceUrl": "",
+   "slug": "lavender-bag-of-flowers"
+  },
+  {
+   "name": "Long Beach Charms",
+   "price": 129.0,
+   "currency": "USD",
+   "description": "A cluster of soft pink roses and pale pink alstroemeria creates a romantic, gently textured centerpiece perfect for a birthday bouquet, mother's day gift, anniversary flowers, or a thoughtful \"I'm thinking of you\" gift.",
+   "sizes": [
+    "Standard",
+    "Deluxe",
+    "Premium"
+   ],
+   "sampleSizeDeltas": [
+    0,
+    25,
+    50
+   ],
+   "occasions": [
+    "love and romance",
+    "birthday"
+   ],
+   "tags": [],
+   "sourceUrl": "",
+   "slug": "long-beach-charms"
+  },
+  {
+   "name": "Premium Sunflowers Arrangement",
+   "price": 129.99,
+   "currency": "USD",
+   "description": "A gorgeous display of premium sunflowers burst forth from an elegant ceramic vase accented by green satin ribbon. This is an impressive display and perfect gift for the sunflower lover in your life.",
+   "sizes": [
+    "Standard",
+    "Deluxe",
+    "Premium"
+   ],
+   "sampleSizeDeltas": [
+    0,
+    25,
+    50
+   ],
+   "occasions": [
+    "birthday",
+    "just because"
+   ],
+   "tags": [],
+   "sourceUrl": "",
+   "slug": "premium-sunflowers-arrangement"
+  },
+  {
+   "name": "Wonderful World",
+   "price": 129.99,
+   "currency": "USD",
+   "description": "\"The colors of the rainbow So pretty in the sky Are also on the faces Of people going by I see friends shaking hands, saying, \"How do you do?\" They're really saying, \"I love you\" \" - Louis Armstrong Wonderful World is an arrangement of…",
+   "sizes": [
+    "Standard",
+    "Deluxe",
+    "Premium"
+   ],
+   "sampleSizeDeltas": [
+    0,
+    25,
+    50
+   ],
+   "occasions": [
+    "congrats",
+    "thank you"
+   ],
+   "tags": [],
+   "sourceUrl": "",
+   "slug": "wonderful-world"
+  },
+  {
+   "name": "Violets in Blue",
+   "price": 139.99,
+   "currency": "USD",
+   "description": "A refined mix of white roses and lilies punctuated by vivid purple carnations, this flower arrangement-perfect as a sympathy arrangement or for a formal wedding-creates an immediate sense of calm and grace.",
+   "sizes": [
+    "Standard",
+    "Deluxe",
+    "Premium"
+   ],
+   "sampleSizeDeltas": [
+    0,
+    25,
+    50
+   ],
+   "occasions": [
+    "birthday",
+    "get well"
+   ],
+   "tags": [
+    "best seller"
+   ],
+   "sourceUrl": "",
+   "slug": "violets-in-blue"
+  },
+  {
+   "name": "Enchanting",
+   "price": 144.99,
+   "currency": "USD",
+   "description": "Vivid red roses paired with soft pink lilies create a romantic, celebratory bouquet made to make the person you're thinking of feel deeply adored.",
+   "sizes": [
+    "Standard",
+    "Deluxe",
+    "Premium"
+   ],
+   "sampleSizeDeltas": [
+    0,
+    25,
+    50
+   ],
+   "occasions": [
+    "love and romance",
+    "anniversary"
+   ],
+   "tags": [],
+   "sourceUrl": "",
+   "slug": "enchanting"
+  },
+  {
+   "name": "Color My World",
+   "price": 154.0,
+   "currency": "USD",
+   "description": "Stems of brightly colored premium roses, exotic blooms of pastel cymbidium orchids, blue star thistle, jewel toned carnations, all accented by lush Italian ruscus and set in white ceramic vase.",
+   "sizes": [
+    "Standard",
+    "Deluxe",
+    "Premium"
+   ],
+   "sampleSizeDeltas": [
+    0,
+    25,
+    50
+   ],
+   "occasions": [
+    "congrats",
+    "birthday"
+   ],
+   "tags": [],
+   "sourceUrl": "",
+   "slug": "color-my-world"
+  },
+  {
+   "name": "Lush Life",
+   "price": 179.99,
+   "currency": "USD",
+   "description": "Lush Life This is a low and lush floral arrangement of pink and white roses, hydrangeas, orchids, and succulents. Arranged in a 6\" clear cylinder vase, overall size is 13\" T x 13\" W.",
+   "sizes": [
+    "Standard",
+    "Deluxe",
+    "Premium"
+   ],
+   "sampleSizeDeltas": [
+    0,
+    25,
+    50
+   ],
+   "occasions": [
+    "just because",
+    "get well"
+   ],
+   "tags": [],
+   "sourceUrl": "",
+   "slug": "lush-life"
+  }
+ ]
+}
